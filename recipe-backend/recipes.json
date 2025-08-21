@@ -1,0 +1,705 @@
+ [
+  {
+    "id": 1,
+    "title": "Pasta Carbonara",
+    "cuisine": "Italian",
+    "ingredients": ["Pasta", "Eggs", "Cheese", "Bacon"],
+    "instructions": "Boil pasta. Cook bacon. Mix with eggs and cheese."
+  },
+  {
+    "id": 2,
+    "title": "Chicken Curry",
+    "cuisine": "Indian",
+    "ingredients": ["Chicken", "Onion", "Tomato", "Spices"],
+    "instructions": "Cook onion and tomato, add chicken, spices, simmer until done."
+  },
+{
+  "id": 3,
+  "title": "Vegetable Stir Fry",
+  "cuisine": "Chinese",
+  "ingredients": ["Mixed Vegetables", "Soy Sauce", "Garlic"],
+  "instructions": "Stir fry vegetables with garlic and soy sauce."
+},
+{
+  "id": 4,
+  "title": "Tacos",
+  "cuisine": "Mexican",
+  "ingredients": ["Tortillas", "Ground Beef", "Lettuce", "Tomato", "Cheese"],
+  "instructions": "Cook beef, assemble with lettuce, tomato, cheese in tortillas."
+},
+{
+  "id": 5,
+  "title": "Caesar Salad",
+  "cuisine": "American",
+  "ingredients": ["Lettuce", "Croutons", "Caesar Dressing", "Parmesan Cheese"],
+  "instructions": "Toss lettuce with croutons, dressing, and cheese."
+},
+{
+  "id": 6,
+  "title": "Sushi Rolls",
+  "cuisine": "Japanese",
+  "ingredients": ["Sushi Rice", "Nori", "Fish", "Vegetables"],
+  "instructions": "Roll rice, nori, fish, and vegetables together."
+},
+{
+  "id": 7,
+  "title": "Chocolate Cake",
+  "cuisine": "French",
+  "ingredients": ["Flour", "Sugar", "Cocoa Powder", "Eggs", "Butter"],
+  "instructions": "Mix ingredients, bake at 350°F for 30 minutes."
+},
+{
+  "id": 8,
+  "title": "Greek Salad",
+  "cuisine": "Greek",
+  "ingredients": ["Tomato", "Cucumber", "Olives", "Feta Cheese"],
+  "instructions": "Chop vegetables, mix with olives and feta."
+},
+{
+  "id": 9,
+  "title": "Beef Stroganoff",
+  "cuisine": "Russian",
+  "ingredients": ["Beef", "Mushrooms", "Onion", "Sour Cream"],
+  "instructions": "Cook beef and mushrooms, add onion and sour cream, serve with noodles."
+},
+{
+  "id": 10,
+  "title": "Falafel Wrap",
+  "cuisine": "Middle Eastern",
+  "ingredients": ["Falafel", "Pita Bread", "Hummus", "Salad"],
+  "instructions": "Fill pita with falafel, hummus, and salad."
+},
+
+{
+  "id": 11,
+  "title": "Spaghetti Bolognese",
+  "cuisine": "Italian",
+  "ingredients": ["Spaghetti", "Ground Beef", "Tomato Sauce", "Onion"],
+  "instructions": "Cook spaghetti, prepare sauce with beef and onion, combine."
+},
+{
+  "id": 12,
+  "title": "Chili Con Carne",
+  "cuisine": "Mexican",
+  "ingredients": ["Ground Beef", "Beans", "Tomato", "Chili Powder"],
+  "instructions": "Cook beef, add beans, tomato, and chili powder, simmer."
+},
+{
+  "id": 13,
+  "title": "Vegetable Soup",
+  "cuisine": "Various",
+  "ingredients": ["Mixed Vegetables", "Broth", "Herbs"],
+  "instructions": "Simmer vegetables in broth with herbs until tender."
+},
+{
+  "id": 14,
+  "title": "Pancakes",
+  "cuisine": "American",
+  "ingredients": ["Flour", "Milk", "Eggs", "Sugar"],
+  "instructions": "Mix ingredients, cook on griddle until golden brown."
+},
+{
+  "id": 15,
+  "title": "Grilled Cheese Sandwich",
+  "cuisine": "American",
+  "ingredients": ["Bread", "Cheese", "Butter"],
+  "instructions": "Butter bread, place cheese between slices, grill until golden."
+},
+{
+  "id": 16,
+  "title": "Lentil Salad",
+  "cuisine": "Mediterranean",
+  "ingredients": ["Lentils", "Cucumber", "Tomato", "Feta Cheese"],
+  "instructions": "Cook lentils, mix with chopped cucumber, tomato, and feta."
+},
+{
+  "id": 17,
+  "title": "Shrimp Tacos",
+  "cuisine": "Mexican",
+  "ingredients": ["Shrimp", "Tortillas", "Cabbage", "Salsa"],
+  "instructions": "Cook shrimp, assemble in tortillas with cabbage and salsa."
+},
+{
+  "id": 18,
+  "title": "Apple Pie",
+  "cuisine": "American",
+  "ingredients": ["Apples", "Sugar", "Pie Crust", "Cinnamon"],
+  "instructions": "Fill pie crust with sliced apples, sugar, and cinnamon, bake until golden."
+} ,
+{
+  "id": 19,
+  "title": "Caprese Salad",
+  "cuisine": "Italian",
+  "ingredients": ["Tomato", "Mozzarella", "Basil", "Olive Oil"],
+  "instructions": "Layer tomato and mozzarella, sprinkle with basil and olive oil."
+},
+{
+  "id": 20,
+  "title": "Chicken Fajitas",
+  "cuisine": "Mexican",
+  "ingredients": ["Chicken", "Bell Peppers", "Onion", "Fajita Seasoning"],
+  "instructions": "Cook chicken with peppers, onion, and seasoning, serve with tortillas."
+} ,
+{
+  "id": 21,
+  "title": "Mushroom Risotto",
+  "cuisine": "Italian",
+  "ingredients": ["Arborio Rice", "Mushrooms", "Broth", "Parmesan Cheese"],
+  "instructions": "Cook rice slowly with broth, add mushrooms and cheese."
+},
+{
+  "id": 22,
+  "title": "Beef Tacos",
+  "cuisine": "Mexican",
+  "ingredients": ["Ground Beef", "Taco Shells", "Lettuce", "Tomato", "Cheese"],
+  "instructions": "Cook beef, fill taco shells with beef, lettuce, tomato, and cheese."
+},
+{
+  "id": 23,
+  "title": "Quiche Lorraine",
+  "cuisine": "French",
+  "ingredients": ["Eggs", "Cream", "Bacon", "Cheese", "Pie Crust"],
+  "instructions": "Mix eggs and cream, add bacon and cheese, pour into crust, bake."
+},
+{
+  "id": 24,
+  "title": "Vegetable Curry",
+  "cuisine": "Indian",
+  "ingredients": ["Mixed Vegetables", "Coconut Milk", "Curry Powder"],
+  "instructions": "Cook vegetables with coconut milk and curry powder until tender."
+},
+{
+  "id": 25,
+  "title": "Banana Bread",
+  "cuisine": "American",
+  "ingredients": ["Bananas", "Flour", "Sugar", "Eggs", "Butter"],
+  "instructions": "Mash bananas, mix with other ingredients, bake until golden."
+},
+{
+  "id": 26,
+  "title": "Greek Yogurt Parfait",
+  "cuisine": "Greek",
+  "ingredients": ["Greek Yogurt", "Granola", "Berries"],
+  "instructions": "Layer yogurt, granola, and berries in a glass."
+},
+{
+  "id": 27,
+  "title": "Stuffed Bell Peppers",
+  "cuisine": "Various",
+  "ingredients": ["Bell Peppers", "Rice", "Ground Meat", "Tomato Sauce"],
+  "instructions": "Stuff peppers with rice, meat, and sauce, bake until tender."
+} ,
+{
+  "id": 28,
+  "title": "Chocolate Chip Cookies",
+  "cuisine": "American",
+  "ingredients": ["Flour", "Sugar", "Butter", "Chocolate Chips"],
+  "instructions": "Mix ingredients, drop spoonfuls on baking sheet, bake until golden."
+},
+{
+  "id": 29,
+  "title": "Cauliflower Rice Stir Fry",
+  "cuisine": "Asian",
+  "ingredients": ["Cauliflower Rice", "Mixed Vegetables", "Soy Sauce"],
+  "instructions": "Stir fry cauliflower rice with vegetables and soy sauce."
+},
+{
+  "id": 30,
+  "title": "Pesto Pasta",
+  "cuisine": "Italian",
+  "ingredients": ["Pasta", "Pesto Sauce", "Parmesan Cheese"],
+  "instructions": "Cook pasta, toss with pesto and cheese."
+} ,
+{
+  "id": 31,
+  "title": "Baked Salmon",
+  "cuisine": "Various",
+  "ingredients": ["Salmon", "Lemon", "Garlic", "Herbs"],
+  "instructions": "Season salmon with lemon, garlic, and herbs, bake until flaky."
+},
+{
+  "id": 32,
+  "title": "Hummus and Veggies",
+  "cuisine": "Middle Eastern",
+  "ingredients": ["Hummus", "Carrots", "Cucumbers", "Bell Peppers"],
+  "instructions": "Serve hummus with sliced vegetables for dipping."
+},
+{
+  "id": 33,
+  "title": "Omelette",
+  "cuisine": "Various",
+  "ingredients": ["Eggs", "Cheese", "Vegetables"],
+  "instructions": "Beat eggs, pour into pan, add cheese and vegetables, cook until set."
+},
+{
+  "id": 34,
+  "title": "Pulled Pork Sandwiches",
+  "cuisine": "American",
+  "ingredients": ["Pulled Pork", "Buns", "Coleslaw"],
+  "instructions": "Serve pulled pork on buns with coleslaw."
+},
+{
+  "id": 35,
+  "title": "Caprese Skewers",
+  "cuisine": "Italian",
+  "ingredients": ["Cherry Tomatoes", "Mozzarella Balls", "Basil"],
+  "instructions": "Skewer tomatoes, mozzarella, and basil for a fresh appetizer."
+},
+{
+  "id": 36,
+  "title": "Chicken Caesar Wrap",
+  "cuisine": "American",
+  "ingredients": ["Grilled Chicken", "Caesar Dressing", "Lettuce", "Wrap"],
+  "instructions": "Wrap grilled chicken, lettuce, and dressing in a tortilla."
+},
+{
+  "id": 37,
+  "title": "Beef and Broccoli",
+  "cuisine": "Chinese",
+  "ingredients": ["Beef", "Broccoli", "Soy Sauce", "Ginger"],
+  "instructions": "Stir fry beef and broccoli with soy sauce and ginger."
+},
+{
+  "id": 38,
+  "title": "Fruit Smoothie",
+  "cuisine": "Various",
+  "ingredients": ["Banana", "Berries", "Yogurt", "Honey"],
+  "instructions": "Blend all ingredients until smooth."
+} ,
+{
+  "id": 39,
+  "title": "Egg Fried Rice",
+  "cuisine": "Chinese",
+  "ingredients": ["Rice", "Eggs", "Vegetables", "Soy Sauce"],
+  "instructions": "Stir fry rice with eggs, vegetables, and soy sauce."
+},
+{
+  "id": 40,
+  "title": "Zucchini Noodles",
+  "cuisine": "Italian",
+  "ingredients": ["Zucchini", "Tomato Sauce", "Parmesan Cheese"],
+  "instructions": "Spiralize zucchini, cook with tomato sauce, top with cheese."
+},
+{
+  "id": 41,
+  "title": "Chicken Noodle Soup",
+  "cuisine": "American",
+  "ingredients": ["Chicken", "Noodles", "Carrots", "Celery", "Broth"],
+  "instructions": "Simmer chicken, noodles, and vegetables in broth until cooked."
+},
+{
+  "id": 42,
+  "title": "Quinoa Salad",
+  "cuisine": "Mediterranean",
+  "ingredients": ["Quinoa", "Cucumber", "Tomato", "Feta Cheese"],
+  "instructions": "Cook quinoa, mix with chopped vegetables and feta."
+},
+{
+  "id": 43,
+  "title": "Baked Ziti",
+  "cuisine": "Italian",
+  "ingredients": ["Ziti Pasta", "Marinara Sauce", "Cheese"],
+  "instructions": "Mix cooked ziti with sauce, top with cheese, bake until bubbly."
+},
+{
+  "id": 44,
+  "title": "Chickpea Salad",
+  "cuisine": "Mediterranean",
+  "ingredients": ["Chickpeas", "Cucumber", "Tomato", "Red Onion"],
+  "instructions": "Mix chickpeas with chopped vegetables, dress with olive oil and lemon."
+},
+{
+  "id": 45,
+  "title": "Pork Stir Fry",
+  "cuisine": "Asian",
+  "ingredients": ["Pork", "Mixed Vegetables", "Soy Sauce"],
+  "instructions": "Stir fry pork with vegetables and soy sauce until cooked."
+},
+{
+  "id": 46,
+  "title": "Spinach and Feta Pie",
+  "cuisine": "Greek",
+  "ingredients": ["Spinach", "Feta Cheese", "Phyllo Dough"],
+  "instructions": "Layer spinach and feta in phyllo dough, bake until golden."
+},
+{
+  "id": 47,
+  "title": "Roasted Vegetable Medley",
+  "cuisine": "Various",
+  "ingredients": ["Carrots", "Potatoes", "Bell Peppers", "Olive Oil"],
+  "instructions": "Toss vegetables with olive oil, roast until tender."
+},
+{
+  "id": 48,
+  "title": "Chicken Alfredo",
+  "cuisine": "Italian",
+  "ingredients": ["Fettuccine", "Chicken", "Alfredo Sauce", "Parmesan Cheese"],
+  "instructions": "Cook fettuccine, sauté chicken, combine with sauce and cheese."
+},
+{
+  "id": 49,
+  "title": "Vegetable Quesadilla",
+  "cuisine": "Mexican",
+  "ingredients": ["Tortillas", "Cheese", "Mixed Vegetables"],
+  "instructions": "Fill tortillas with cheese and vegetables, cook until cheese melts."
+},
+{
+  "id": 50,
+  "title": "Berry Parfait",
+  "cuisine": "Various",
+  "ingredients": ["Yogurt", "Granola", "Mixed Berries"],
+  "instructions": "Layer yogurt, granola, and berries in a glass."
+},
+{
+  "id": 51,
+  "title": "Lemon Herb Grilled Chicken",
+  "cuisine": "American",
+  "ingredients": ["Chicken Breast", "Lemon Juice", "Herbs"],
+  "instructions": "Marinate chicken in lemon juice and herbs, grill until cooked."
+},
+{
+  "id": 52,
+  "title": "Vegetable Lasagna",
+  "cuisine": "Italian",
+  "ingredients": ["Lasagna Noodles", "Mixed Vegetables", "Ricotta Cheese", "Marinara Sauce"],
+  "instructions": "Layer noodles with vegetables, ricotta, and sauce, bake until bubbly."
+},
+{
+  "id": 53,
+  "title": "Thai Green Curry",
+  "cuisine": "Thai",
+  "ingredients": ["Coconut Milk", "Green Curry Paste", "Mixed Vegetables", "Basil"],
+  "instructions": "Cook vegetables in coconut milk with curry paste, garnish with basil."
+},
+{
+  "id": 54,
+  "title": "Avocado Toast",
+  "cuisine": "Various",
+  "ingredients": ["Bread", "Avocado", "Salt", "Pepper"],
+  "instructions": "Mash avocado on toasted bread, season with salt and pepper."
+},
+{
+  "id": 55,
+  "title": "Stuffed Mushrooms",
+  "cuisine": "Italian",
+  "ingredients": ["Mushrooms", "Breadcrumbs", "Garlic", "Parmesan Cheese"],
+  "instructions": "Stuff mushrooms with breadcrumb mixture, bake until golden."
+},
+{
+  "id": 56,
+  "title": "Coconut Rice",
+  "cuisine": "Asian",
+  "ingredients": ["Rice", "Coconut Milk", "Sugar"],
+  "instructions": "Cook rice in coconut milk with a bit of sugar until tender."
+},
+{
+  "id": 57,
+  "title": "Baked Potatoes",
+  "cuisine": "Various",
+  "ingredients": ["Potatoes", "Butter", "Sour Cream", "Chives"],
+  "instructions": "Bake potatoes until tender, serve with butter, sour cream, and chives."
+},
+{
+  "id": 58,
+  "title": "Chicken Shawarma",
+  "cuisine": "Middle Eastern",
+  "ingredients": ["Chicken", "Spices", "Pita Bread", "Tahini Sauce"],
+  "instructions": "Marinate chicken in spices, grill, serve in pita with tahini sauce."
+},
+{
+  "id": 59,
+  "title": "Roasted Chickpeas",
+  "cuisine": "Various",
+  "ingredients": ["Chickpeas", "Olive Oil", "Spices"],
+  "instructions": "Toss chickpeas with oil and spices, roast until crispy."
+},
+{
+  "id": 60,
+  "title": "Mango Salsa",
+  "cuisine": "Mexican",
+  "ingredients": ["Mango", "Red Onion", "Cilantro", "Lime Juice"],
+  "instructions": "Mix diced mango with onion, cilantro, and lime juice for a fresh salsa."
+},
+{
+  "id": 61,
+  "title": "Pork Chops with Applesauce",
+  "cuisine": "American",
+  "ingredients": ["Pork Chops", "Applesauce", "Seasoning"],
+  "instructions": "Season pork chops, cook until done, serve with applesauce."
+},
+{
+  "id": 62,
+  "title": "Vegetable Samosas",
+  "cuisine": "Indian",
+  "ingredients": ["Potatoes", "Peas", "Spices", "Samosa Pastry"],
+  "instructions": "Fill pastry with spiced potatoes and peas, fry until golden."
+},
+{
+  "id": 63,
+  "title": "Cinnamon Rolls",
+  "cuisine": "American",
+  "ingredients": ["Flour", "Sugar", "Cinnamon", "Butter"],
+  "instructions": "Roll dough with cinnamon and sugar, bake until golden."
+},
+{
+  "id": 64,
+  "title": "Beef Enchiladas",
+  "cuisine": "Mexican",
+  "ingredients": ["Ground Beef", "Tortillas", "Enchilada Sauce", "Cheese"],
+  "instructions": "Fill tortillas with beef, cover with sauce and cheese, bake until bubbly."
+},
+{
+  "id": 65,
+  "title": "Greek Moussaka",
+  "cuisine": "Greek",
+  "ingredients": ["Eggplant", "Ground Meat", "Bechamel Sauce"],
+  "instructions": "Layer eggplant, meat, and sauce, bake until golden."
+},
+{
+  "id": 66,
+  "title": "Chia Seed Pudding",
+  "cuisine": "Various",
+  "ingredients": ["Chia Seeds", "Milk", "Honey", "Fruit"],
+  "instructions": "Mix chia seeds with milk and honey, refrigerate overnight, top with fruit."
+},
+{
+  "id": 67,
+  "title": "Chicken Tikka Masala",
+  "cuisine": "Indian",  
+  "ingredients": ["Chicken", "Tikka Masala Sauce", "Rice"],
+  "instructions": "Cook chicken in tikka masala sauce, serve with rice."
+},
+{
+  "id": 68,
+  "title": "Vegetable Pad Thai",
+  "cuisine": "Thai",
+  "ingredients": ["Rice Noodles", "Mixed Vegetables", "Peanut Sauce"],
+  "instructions": "Stir fry noodles with vegetables and peanut sauce."
+},
+{
+  "id": 69,
+  "title": "Baked Apples",
+  "cuisine": "American",
+  "ingredients": ["Apples", "Brown Sugar", "Cinnamon"],
+  "instructions": "Core apples, fill with sugar and cinnamon, bake until tender."
+},
+{
+  "id": 70,
+  "title": "Falafel Salad",
+  "cuisine": "Middle Eastern",
+  "ingredients": ["Falafel", "Lettuce", "Tomato", "Cucumber", "Tahini Dressing"],
+  "instructions": "Serve falafel on a bed of lettuce with tomato, cucumber, and dressing."
+},
+{
+  "id": 71,
+  "title": "Roasted Brussels Sprouts",
+  "cuisine": "Various",
+  "ingredients": ["Brussels Sprouts", "Olive Oil", "Balsamic Vinegar"],
+  "instructions": "Toss sprouts with oil and vinegar, roast until crispy."
+},
+{
+  "id": 72,
+  "title": "Shrimp Fried Rice",
+  "cuisine": "Chinese",
+  "ingredients": ["Shrimp", "Rice", "Eggs", "Vegetables", "Soy Sauce"],
+  "instructions": "Stir fry shrimp with rice, eggs, vegetables, and soy sauce."
+},
+{
+  "id": 73,
+  "title": "Pumpkin Soup",
+  "cuisine": "Various",
+  "ingredients": ["Pumpkin", "Onion", "Garlic", "Broth"],
+  "instructions": "Cook pumpkin with onion and garlic in broth, blend until smooth."
+},
+{
+  "id": 74,
+  "title": "Cucumber Salad",
+  "cuisine": "Mediterranean",
+  "ingredients": ["Cucumber", "Yogurt", "Dill"],
+  "instructions": "Mix sliced cucumber with yogurt and dill for a refreshing salad."
+},
+{
+  "id": 75,
+  "title": "Spicy Lentil Soup",
+  "cuisine": "Indian",
+  "ingredients": ["Lentils", "Tomato", "Spices"],
+  "instructions": "Cook lentils with tomato and spices until tender."
+},
+{
+  "id": 76,
+  "title": "Chicken and Vegetable Stir Fry",
+  "cuisine": "Asian",
+  "ingredients": ["Chicken", "Mixed Vegetables", "Soy Sauce"],
+  "instructions": "Stir fry chicken with vegetables and soy sauce until cooked."
+},
+{
+  "id": 77,
+  "title": "Chocolate Mousse",
+  "cuisine": "French",
+  "ingredients": ["Dark Chocolate", "Eggs", "Sugar", "Cream"],
+  "instructions": "Melt chocolate, mix with whipped cream and beaten eggs, chill until set."
+},
+{
+  "id": 78,
+  "title": "Greek Pasta Salad",
+  "cuisine": "Greek",
+  "ingredients": ["Pasta", "Olives", "Feta Cheese", "Tomato", "Cucumber"],
+  "instructions": "Cook pasta, mix with olives, feta, tomato, and cucumber."
+},
+{
+  "id": 79,
+  "title": "Vegetable Frittata",
+  "cuisine": "Italian",
+  "ingredients": ["Eggs", "Mixed Vegetables", "Cheese"],
+  "instructions": "Beat eggs, mix with vegetables and cheese, bake until set."
+},
+{
+  "id": 80,
+  "title": "Apple Cinnamon Oatmeal",
+  "cuisine": "American",
+  "ingredients": ["Oats", "Apple", "Cinnamon", "Honey"],
+  "instructions": "Cook oats with diced apple, cinnamon, and honey until creamy."
+},
+{
+  "id": 81,
+  "title": "Beef and Vegetable Skewers",
+  "cuisine": "Various",
+  "ingredients": ["Beef", "Bell Peppers", "Onion", "Zucchini"],
+  "instructions": "Skewer beef and vegetables, grill until cooked through."
+},
+{
+  "id": 82,
+  "title": "Vegetable Biryani",
+  "cuisine": "Indian",
+  "ingredients": ["Basmati Rice", "Mixed Vegetables", "Spices"],
+  "instructions": "Cook rice with vegetables and spices until fragrant."
+},
+{
+  "id": 83,
+  "title": "Chocolate Banana Smoothie",
+  "cuisine": "Various",
+  "ingredients": ["Banana", "Cocoa Powder", "Milk", "Honey"],
+  "instructions": "Blend banana with cocoa, milk, and honey until smooth."
+},
+{
+  "id": 84,
+  "title": "Stuffed Zucchini Boats",
+  "cuisine": "Italian",
+  "ingredients": ["Zucchini", "Ground Meat", "Tomato Sauce", "Cheese"],
+  "instructions": "Hollow zucchini, fill with meat and sauce, top with cheese, bake until tender."
+},
+{
+  "id": 85,
+  "title": "Cabbage Rolls",
+  "cuisine": "Eastern European",
+  "ingredients": ["Cabbage Leaves", "Ground Meat", "Rice", "Tomato Sauce"],
+  "instructions": "Fill cabbage leaves with meat and rice, roll up, cook in tomato sauce."
+},
+{
+  "id": 86,
+  "title": "Pineapple Fried Rice",
+  "cuisine": "Thai",
+  "ingredients": ["Rice", "Pineapple", "Vegetables", "Soy Sauce"],
+  "instructions": "Stir fry rice with pineapple, vegetables, and soy sauce."
+},
+{
+  "id": 87,
+  "title": "Eggplant Parmesan",
+  "cuisine": "Italian",
+  "ingredients": ["Eggplant", "Marinara Sauce", "Mozzarella Cheese", "Parmesan Cheese"],
+  "instructions": "Layer fried eggplant with sauce and cheeses, bake until bubbly."
+},
+{
+  "id": 88,
+  "title": "Chicken and Rice Casserole",
+  "cuisine": "American",
+  "ingredients": ["Chicken", "Rice", "Cream of Mushroom Soup", "Cheese"],
+  "instructions": "Mix chicken, rice, soup, and cheese, bake until heated through."
+},
+{
+  "id": 89,
+  "title": "Roasted Cauliflower Tacos",
+  "cuisine": "Mexican",
+  "ingredients": ["Cauliflower", "Tortillas", "Avocado", "Cilantro"],
+  "instructions": "Roast cauliflower, serve in tortillas with avocado and cilantro."
+},
+{
+  "id": 90,
+  "title": "Berry Smoothie Bowl",
+  "cuisine": "Various",
+  "ingredients": ["Mixed Berries", "Yogurt", "Granola"],
+  "instructions": "Blend berries with yogurt, pour into a bowl, top with granola."
+},
+{
+  "id": 91,
+  "title": "Chicken Pot Pie",
+  "cuisine": "American",
+  "ingredients": ["Chicken", "Vegetables", "Pie Crust", "Cream of Chicken Soup"],
+  "instructions": "Mix chicken and vegetables with soup, fill pie crust, bake until golden."
+},
+{
+  "id": 92,
+  "title": "Vegetable Tempura",
+  "cuisine": "Japanese",
+  "ingredients": ["Mixed Vegetables", "Tempura Batter"],
+  "instructions": "Dip vegetables in batter, fry until crispy."
+},
+{
+  "id": 93,
+  "title": "Coconut Curry Lentils",
+  "cuisine": "Indian",
+  "ingredients": ["Lentils", "Coconut Milk", "Curry Powder"],
+  "instructions": "Cook lentils in coconut milk with curry powder until tender."
+},
+{
+  "id": 94,
+  "title": "Avocado Chickpea Salad",
+  "cuisine": "Various",
+  "ingredients": ["Avocado", "Chickpeas", "Lemon Juice", "Red Onion"],
+  "instructions": "Mash avocado, mix with chickpeas, lemon juice, and onion."
+},
+{
+  "id": 95,
+  "title": "Spaghetti Aglio e Olio",
+  "cuisine": "Italian",
+  "ingredients": ["Spaghetti", "Garlic", "Olive Oil", "Parsley"],
+  "instructions": "Cook spaghetti, sauté garlic in oil, toss with pasta and parsley."
+},
+{
+  "id": 96,
+  "title": "Baked Falafel",
+  "cuisine": "Middle Eastern",
+  "ingredients": ["Chickpeas", "Garlic", "Parsley", "Spices"],
+  "instructions": "Blend ingredients, form balls, bake until golden."
+},
+{
+  "id": 97,
+  "title": "\"Cheesy\" Vegan Broccoli Soup",
+  "cuisine": "Vegan",
+  "ingredients": ["Broccoli", "Cashews", "Nutritional Yeast", "Vegetable Broth"],
+  "instructions": "Blend cooked broccoli with soaked cashews, nutritional yeast, and broth until smooth."
+},
+{
+  "id": 98,
+  "title": "Sweet Potato and Black Bean Tacos",
+  "cuisine": "Mexican",
+  "ingredients": ["Sweet Potatoes", "Black Beans", "Tortillas", "Avocado"],
+  "instructions": "Roast sweet potatoes, mix with black beans, serve in tortillas with avocado."
+},
+{
+  "id": 99,
+  "title": "Zucchini Fritters",
+  "cuisine": "Various",
+  "ingredients": ["Zucchini", "Flour", "Eggs", "Cheese"],
+  "instructions": "Grate zucchini, mix with flour, eggs, and cheese, pan-fry until golden."
+},
+{
+  "id": 100,
+  "title": "Mediterranean Couscous Salad",
+  "cuisine": "Mediterranean",
+  "ingredients": ["Couscous", "Cherry Tomatoes", "Cucumber", "Feta Cheese", "Olives"],
+  "instructions": "Cook couscous, mix with chopped vegetables and feta."
+}
+]
+
+
